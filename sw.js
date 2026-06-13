@@ -1,6 +1,6 @@
 const CACHE_NAME = 'rc-mante-cache-v1';
 const ASSETS = [
-  './mantenimiento_rc_app_v1.html',
+  './index.html',
   './manifest.json',
   './icon-180.png',
   './icon-192.png',
